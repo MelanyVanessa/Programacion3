@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\EjerciciosBasicos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76190143-7DA9-4519-B3EA-39D68A9E083B}|EjerciciosBasicos\\EjerciciosBasicos.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\ejerciciosbasicos\\ejerciciosbasicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76190143-7DA9-4519-B3EA-39D68A9E083B}|EjerciciosBasicos\\EjerciciosBasicos.csproj|solutionrelative:ejerciciosbasicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76190143-7DA9-4519-B3EA-39D68A9E083B}|EjerciciosBasicos\\EjerciciosBasicos.csproj|C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\EjerciciosBasicos\\ejerciciosbasicos\\ejercicios\\perfilgamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76190143-7DA9-4519-B3EA-39D68A9E083B}|EjerciciosBasicos\\EjerciciosBasicos.csproj|solutionrelative:ejerciciosbasicos\\ejercicios\\perfilgamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76190143-7DA9-4519-B3EA-39D68A9E083B}|EjerciciosBasicos\\EjerciciosBasicos.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\ejerciciosbasicos\\ejerciciosbasicos\\ejercicios\\perfilgamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76190143-7DA9-4519-B3EA-39D68A9E083B}|EjerciciosBasicos\\EjerciciosBasicos.csproj|solutionrelative:ejerciciosbasicos\\ejercicios\\perfilgamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76190143-7DA9-4519-B3EA-39D68A9E083B}|EjerciciosBasicos\\EjerciciosBasicos.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\ejerciciosbasicos\\ejerciciosbasicos\\ejercicios\\simuladordesem\u00E1forointeligente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76190143-7DA9-4519-B3EA-39D68A9E083B}|EjerciciosBasicos\\EjerciciosBasicos.csproj|solutionrelative:ejerciciosbasicos\\ejercicios\\simuladordesem\u00E1forointeligente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76190143-7DA9-4519-B3EA-39D68A9E083B}|EjerciciosBasicos\\EjerciciosBasicos.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\ejerciciosbasicos\\ejerciciosbasicos\\ejercicios\\calculadoradepropinassolidarias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76190143-7DA9-4519-B3EA-39D68A9E083B}|EjerciciosBasicos\\EjerciciosBasicos.csproj|solutionrelative:ejerciciosbasicos\\ejercicios\\calculadoradepropinassolidarias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76190143-7DA9-4519-B3EA-39D68A9E083B}|EjerciciosBasicos\\EjerciciosBasicos.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\ejerciciosbasicos\\ejerciciosbasicos\\ejercicios\\generadordecorreoscorporativos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76190143-7DA9-4519-B3EA-39D68A9E083B}|EjerciciosBasicos\\EjerciciosBasicos.csproj|solutionrelative:ejerciciosbasicos\\ejercicios\\generadordecorreoscorporativos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76190143-7DA9-4519-B3EA-39D68A9E083B}|EjerciciosBasicos\\EjerciciosBasicos.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\ejerciciosbasicos\\ejerciciosbasicos\\ejercicios\\controldeaforoeneventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76190143-7DA9-4519-B3EA-39D68A9E083B}|EjerciciosBasicos\\EjerciciosBasicos.csproj|solutionrelative:ejerciciosbasicos\\ejercicios\\controldeaforoeneventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76190143-7DA9-4519-B3EA-39D68A9E083B}|EjerciciosBasicos\\EjerciciosBasicos.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\ejerciciosbasicos\\ejerciciosbasicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76190143-7DA9-4519-B3EA-39D68A9E083B}|EjerciciosBasicos\\EjerciciosBasicos.csproj|solutionrelative:ejerciciosbasicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "GeneradordeCorreosCorporativos.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\EjerciciosBasicos\\EjerciciosBasicos\\Ejercicios\\GeneradordeCorreosCorporativos.cs",
+              "RelativeDocumentMoniker": "EjerciciosBasicos\\Ejercicios\\GeneradordeCorreosCorporativos.cs",
+              "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\EjerciciosBasicos\\EjerciciosBasicos\\Ejercicios\\GeneradordeCorreosCorporativos.cs",
+              "RelativeToolTip": "EjerciciosBasicos\\Ejercicios\\GeneradordeCorreosCorporativos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T14:25:10.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControldeAforoenEventos.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\EjerciciosBasicos\\EjerciciosBasicos\\Ejercicios\\ControldeAforoenEventos.cs",
+              "RelativeDocumentMoniker": "EjerciciosBasicos\\Ejercicios\\ControldeAforoenEventos.cs",
+              "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\EjerciciosBasicos\\EjerciciosBasicos\\Ejercicios\\ControldeAforoenEventos.cs",
+              "RelativeToolTip": "EjerciciosBasicos\\Ejercicios\\ControldeAforoenEventos.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T14:24:03.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculadoraDePropinasSolidarias.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\EjerciciosBasicos\\EjerciciosBasicos\\Ejercicios\\CalculadoraDePropinasSolidarias.cs",
+              "RelativeDocumentMoniker": "EjerciciosBasicos\\Ejercicios\\CalculadoraDePropinasSolidarias.cs",
+              "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\EjerciciosBasicos\\EjerciciosBasicos\\Ejercicios\\CalculadoraDePropinasSolidarias.cs",
+              "RelativeToolTip": "EjerciciosBasicos\\Ejercicios\\CalculadoraDePropinasSolidarias.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T14:22:37.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PerfilGamer.cs",
               "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\EjerciciosBasicos\\EjerciciosBasicos\\Ejercicios\\PerfilGamer.cs",
               "RelativeDocumentMoniker": "EjerciciosBasicos\\Ejercicios\\PerfilGamer.cs",
               "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\EjerciciosBasicos\\EjerciciosBasicos\\Ejercicios\\PerfilGamer.cs",
               "RelativeToolTip": "EjerciciosBasicos\\Ejercicios\\PerfilGamer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T14:15:59.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "SimuladordeSem\u00E1foroInteligente.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\EjerciciosBasicos\\EjerciciosBasicos\\Ejercicios\\SimuladordeSem\u00E1foroInteligente.cs",
+              "RelativeDocumentMoniker": "EjerciciosBasicos\\Ejercicios\\SimuladordeSem\u00E1foroInteligente.cs",
+              "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\EjerciciosBasicos\\EjerciciosBasicos\\Ejercicios\\SimuladordeSem\u00E1foroInteligente.cs",
+              "RelativeToolTip": "EjerciciosBasicos\\Ejercicios\\SimuladordeSem\u00E1foroInteligente.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T14:26:06.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\EjerciciosBasicos\\EjerciciosBasicos\\Program.cs",
               "RelativeDocumentMoniker": "EjerciciosBasicos\\Program.cs",
               "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\EjerciciosBasicos\\EjerciciosBasicos\\Program.cs",
               "RelativeToolTip": "EjerciciosBasicos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T14:15:00.84Z",
               "EditorCaption": ""
