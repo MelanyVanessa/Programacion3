@@ -1,0 +1,7 @@
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\EjerciciosBasicos\EjerciciosBasicos\bin\Debug\EjerciciosBasicos.exe.config
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\EjerciciosBasicos\EjerciciosBasicos\bin\Debug\EjerciciosBasicos.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\EjerciciosBasicos\EjerciciosBasicos\bin\Debug\EjerciciosBasicos.pdb
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\EjerciciosBasicos\EjerciciosBasicos\obj\Debug\EjerciciosBasicos.csproj.AssemblyReference.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\EjerciciosBasicos\EjerciciosBasicos\obj\Debug\EjerciciosBasicos.csproj.CoreCompileInputs.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\EjerciciosBasicos\EjerciciosBasicos\obj\Debug\EjerciciosBasicos.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\EjerciciosBasicos\EjerciciosBasicos\obj\Debug\EjerciciosBasicos.pdb
