@@ -1,0 +1,7 @@
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\EJERCICIOS POO\EJERCICIOS POO\obj\Debug\EJERCICIOS POO.csproj.AssemblyReference.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\EJERCICIOS POO\EJERCICIOS POO\obj\Debug\EJERCICIOS POO.csproj.CoreCompileInputs.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\EJERCICIOS POO\EJERCICIOS POO\bin\Debug\EJERCICIOS POO.exe.config
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\EJERCICIOS POO\EJERCICIOS POO\bin\Debug\EJERCICIOS POO.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\EJERCICIOS POO\EJERCICIOS POO\bin\Debug\EJERCICIOS POO.pdb
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\EJERCICIOS POO\EJERCICIOS POO\obj\Debug\EJERCICIOS POO.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\EJERCICIOS POO\EJERCICIOS POO\obj\Debug\EJERCICIOS POO.pdb
