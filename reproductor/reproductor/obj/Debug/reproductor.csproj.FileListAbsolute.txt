@@ -1,0 +1,7 @@
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\reproductor\reproductor\bin\Debug\reproductor.exe.config
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\reproductor\reproductor\bin\Debug\reproductor.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\reproductor\reproductor\bin\Debug\reproductor.pdb
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\reproductor\reproductor\obj\Debug\reproductor.csproj.AssemblyReference.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\reproductor\reproductor\obj\Debug\reproductor.csproj.CoreCompileInputs.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\reproductor\reproductor\obj\Debug\reproductor.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\reproductor\reproductor\obj\Debug\reproductor.pdb
