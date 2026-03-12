@@ -1,0 +1,7 @@
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Concesionario de Vehículos\Sistema de Concesionario de Vehículos\bin\Debug\Sistema de Concesionario de Vehículos.exe.config
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Concesionario de Vehículos\Sistema de Concesionario de Vehículos\bin\Debug\Sistema de Concesionario de Vehículos.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Concesionario de Vehículos\Sistema de Concesionario de Vehículos\bin\Debug\Sistema de Concesionario de Vehículos.pdb
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Concesionario de Vehículos\Sistema de Concesionario de Vehículos\obj\Debug\Sistema de Concesionario de Vehículos.csproj.AssemblyReference.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Concesionario de Vehículos\Sistema de Concesionario de Vehículos\obj\Debug\Sistema de Concesionario de Vehículos.csproj.CoreCompileInputs.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Concesionario de Vehículos\Sistema de Concesionario de Vehículos\obj\Debug\Sistema de Concesionario de Vehículos.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Concesionario de Vehículos\Sistema de Concesionario de Vehículos\obj\Debug\Sistema de Concesionario de Vehículos.pdb

@@ -1,0 +1,7 @@
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\BibliotecaDigital\BibliotecaDigital\obj\Debug\BibliotecaDigital.csproj.AssemblyReference.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\BibliotecaDigital\BibliotecaDigital\obj\Debug\BibliotecaDigital.csproj.CoreCompileInputs.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\BibliotecaDigital\BibliotecaDigital\bin\Debug\BibliotecaDigital.exe.config
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\BibliotecaDigital\BibliotecaDigital\bin\Debug\BibliotecaDigital.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\BibliotecaDigital\BibliotecaDigital\bin\Debug\BibliotecaDigital.pdb
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\BibliotecaDigital\BibliotecaDigital\obj\Debug\BibliotecaDigital.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\BibliotecaDigital\BibliotecaDigital\obj\Debug\BibliotecaDigital.pdb

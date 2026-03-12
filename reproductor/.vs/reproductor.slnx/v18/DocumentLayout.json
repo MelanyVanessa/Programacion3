@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\reproductor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\reproductor.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\reproductor\\reproductor\\modelos\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\reproductor.csproj|solutionrelative:reproductor\\modelos\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\reproductor.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\reproductor\\reproductor\\modelos\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\reproductor.csproj|solutionrelative:reproductor\\modelos\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\reproductor.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\reproductor\\reproductor\\interfaces\\ireproductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\reproductor.csproj|solutionrelative:reproductor\\interfaces\\ireproductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\reproductor.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\reproductor\\reproductor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\reproductor.csproj|C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\reproductor\\reproductor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\reproductor.csproj|solutionrelative:reproductor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\Reproductor.csproj|C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\reproductor\\reproductor\\modelos\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\Reproductor.csproj|solutionrelative:reproductor\\modelos\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\Reproductor.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\reproductor\\reproductor\\interfaces\\ireproductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\Reproductor.csproj|solutionrelative:reproductor\\interfaces\\ireproductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\reproductor.csproj|C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\reproductor\\reproductor\\modelos\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\reproductor.csproj|solutionrelative:reproductor\\modelos\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Podcast.cs",
               "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\reproductor\\reproductor\\Modelos\\Podcast.cs",
               "RelativeDocumentMoniker": "reproductor\\Modelos\\Podcast.cs",
@@ -38,12 +38,11 @@
               "RelativeToolTip": "reproductor\\Modelos\\Podcast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T13:51:05.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T13:51:05.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Cancion.cs",
               "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\reproductor\\reproductor\\Modelos\\Cancion.cs",
               "RelativeDocumentMoniker": "reproductor\\Modelos\\Cancion.cs",
@@ -56,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\reproductor\\reproductor\\Program.cs",
               "RelativeDocumentMoniker": "reproductor\\Program.cs",
