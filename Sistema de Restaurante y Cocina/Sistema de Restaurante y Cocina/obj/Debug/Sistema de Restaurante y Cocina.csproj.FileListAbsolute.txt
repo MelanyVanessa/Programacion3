@@ -1,0 +1,7 @@
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Restaurante y Cocina\Sistema de Restaurante y Cocina\bin\Debug\Sistema de Restaurante y Cocina.exe.config
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Restaurante y Cocina\Sistema de Restaurante y Cocina\bin\Debug\Sistema de Restaurante y Cocina.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Restaurante y Cocina\Sistema de Restaurante y Cocina\bin\Debug\Sistema de Restaurante y Cocina.pdb
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Restaurante y Cocina\Sistema de Restaurante y Cocina\obj\Debug\Sistema de Restaurante y Cocina.csproj.AssemblyReference.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Restaurante y Cocina\Sistema de Restaurante y Cocina\obj\Debug\Sistema de Restaurante y Cocina.csproj.CoreCompileInputs.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Restaurante y Cocina\Sistema de Restaurante y Cocina\obj\Debug\Sistema de Restaurante y Cocina.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Restaurante y Cocina\Sistema de Restaurante y Cocina\obj\Debug\Sistema de Restaurante y Cocina.pdb
