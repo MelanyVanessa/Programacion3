@@ -1,7 +1,0 @@
-C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Metodo de la Regla Falsa\Metodo de la Regla Falsa\bin\Debug\Metodo de la Regla Falsa.exe.config
-C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Metodo de la Regla Falsa\Metodo de la Regla Falsa\bin\Debug\Metodo de la Regla Falsa.exe
-C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Metodo de la Regla Falsa\Metodo de la Regla Falsa\bin\Debug\Metodo de la Regla Falsa.pdb
-C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Metodo de la Regla Falsa\Metodo de la Regla Falsa\obj\Debug\Metodo de la Regla Falsa.csproj.AssemblyReference.cache
-C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Metodo de la Regla Falsa\Metodo de la Regla Falsa\obj\Debug\Metodo de la Regla Falsa.csproj.CoreCompileInputs.cache
-C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Metodo de la Regla Falsa\Metodo de la Regla Falsa\obj\Debug\Metodo de la Regla Falsa.exe
-C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Metodo de la Regla Falsa\Metodo de la Regla Falsa\obj\Debug\Metodo de la Regla Falsa.pdb
