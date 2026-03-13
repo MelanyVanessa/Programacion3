@@ -3,40 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\sistema de restaurante y cocina\\sistema de restaurante y cocina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|solutionrelative:sistema de restaurante y cocina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\sistema de restaurante y cocina\\enums\\tipocomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|solutionrelative:sistema de restaurante y cocina\\enums\\tipocomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\sistema de restaurante y cocina\\sistema de restaurante y cocina\\modelos\\postre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|solutionrelative:sistema de restaurante y cocina\\modelos\\postre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\sistema de restaurante y cocina\\sistema de restaurante y cocina\\modelos\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|solutionrelative:sistema de restaurante y cocina\\modelos\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\sistema de restaurante y cocina\\sistema de restaurante y cocina\\modelos\\platoprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|solutionrelative:sistema de restaurante y cocina\\modelos\\platoprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\sistema de restaurante y cocina\\sistema de restaurante y cocina\\modelos\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|solutionrelative:sistema de restaurante y cocina\\modelos\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\sistema de restaurante y cocina\\sistema de restaurante y cocina\\interfaces\\ipreparable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\sistema de restaurante y cocina\\interfaces\\ipreparable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|solutionrelative:sistema de restaurante y cocina\\interfaces\\ipreparable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\sistema de restaurante y cocina\\sistema de restaurante y cocina\\enums\\estadoorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|solutionrelative:sistema de restaurante y cocina\\enums\\estadoorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\sistema de restaurante y cocina\\modelos\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|solutionrelative:sistema de restaurante y cocina\\modelos\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\sistema de restaurante y cocina\\sistema de restaurante y cocina\\enums\\niveldificultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|solutionrelative:sistema de restaurante y cocina\\enums\\niveldificultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\sistema de restaurante y cocina\\modelos\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|solutionrelative:sistema de restaurante y cocina\\modelos\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\sistema de restaurante y cocina\\sistema de restaurante y cocina\\enums\\tipocomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|solutionrelative:sistema de restaurante y cocina\\enums\\tipocomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\sistema de restaurante y cocina\\modelos\\postre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|solutionrelative:sistema de restaurante y cocina\\modelos\\postre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\sistema de restaurante y cocina\\modelos\\platoprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1406567-4F13-435C-9674-A791F70CA003}|Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina.csproj|solutionrelative:sistema de restaurante y cocina\\modelos\\platoprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,63 +34,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PlatoPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina\\Modelos\\PlatoPrincipal.cs",
               "RelativeDocumentMoniker": "Sistema de Restaurante y Cocina\\Modelos\\PlatoPrincipal.cs",
               "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina\\Modelos\\PlatoPrincipal.cs",
               "RelativeToolTip": "Sistema de Restaurante y Cocina\\Modelos\\PlatoPrincipal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T22:51:46.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Postre.cs",
               "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina\\Modelos\\Postre.cs",
               "RelativeDocumentMoniker": "Sistema de Restaurante y Cocina\\Modelos\\Postre.cs",
               "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina\\Modelos\\Postre.cs",
               "RelativeToolTip": "Sistema de Restaurante y Cocina\\Modelos\\Postre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wCIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T22:51:35.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Entrada.cs",
               "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina\\Modelos\\Entrada.cs",
               "RelativeDocumentMoniker": "Sistema de Restaurante y Cocina\\Modelos\\Entrada.cs",
               "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina\\Modelos\\Entrada.cs",
               "RelativeToolTip": "Sistema de Restaurante y Cocina\\Modelos\\Entrada.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T22:51:20.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Plato.cs",
               "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina\\Modelos\\Plato.cs",
               "RelativeDocumentMoniker": "Sistema de Restaurante y Cocina\\Modelos\\Plato.cs",
               "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina\\Modelos\\Plato.cs",
               "RelativeToolTip": "Sistema de Restaurante y Cocina\\Modelos\\Plato.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wCMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T22:51:13.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "IPreparable.cs",
               "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina\\Interfaces\\IPreparable.cs",
               "RelativeDocumentMoniker": "Sistema de Restaurante y Cocina\\Interfaces\\IPreparable.cs",
@@ -115,50 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EstadoOrden.cs",
-              "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina\\Enums\\EstadoOrden.cs",
-              "RelativeDocumentMoniker": "Sistema de Restaurante y Cocina\\Enums\\EstadoOrden.cs",
-              "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina\\Enums\\EstadoOrden.cs",
-              "RelativeToolTip": "Sistema de Restaurante y Cocina\\Enums\\EstadoOrden.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T22:50:40.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NivelDificultad.cs",
-              "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina\\Enums\\NivelDificultad.cs",
-              "RelativeDocumentMoniker": "Sistema de Restaurante y Cocina\\Enums\\NivelDificultad.cs",
-              "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina\\Enums\\NivelDificultad.cs",
-              "RelativeToolTip": "Sistema de Restaurante y Cocina\\Enums\\NivelDificultad.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T22:50:24.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina\\Program.cs",
-              "RelativeDocumentMoniker": "Sistema de Restaurante y Cocina\\Program.cs",
-              "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina\\Program.cs",
-              "RelativeToolTip": "Sistema de Restaurante y Cocina\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T22:45:00.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "TipoComida.cs",
               "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Restaurante y Cocina\\Sistema de Restaurante y Cocina\\Enums\\TipoComida.cs",
               "RelativeDocumentMoniker": "Sistema de Restaurante y Cocina\\Enums\\TipoComida.cs",

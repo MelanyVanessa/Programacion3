@@ -141,7 +141,7 @@ namespace SistemaRestaurante
             }
         }
 
-        // Función que carga platos de ejemplo al iniciar
+       
         static void CargarPlatosEjemplo()
         {
             menu.Add(new Entrada(

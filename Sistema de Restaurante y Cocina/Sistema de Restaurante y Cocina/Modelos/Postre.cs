@@ -19,7 +19,7 @@ namespace SistemaRestaurante.Modelos
 
         public override TimeSpan CalcularTiempoPreparacion()
         {
-            // Tiempo base: 25 min + 5 min si contiene lactosa
+            
             return TimeSpan.FromMinutes(25 + (ContieneLactosa ? 5 : 0));
         }
 
@@ -32,7 +32,7 @@ namespace SistemaRestaurante.Modelos
 
         public override decimal CalcularCostoTotal()
         {
-            // El costo es el precio base (puedes extenderlo si quieres sumar extras)
+          
             return PrecioBase;
         }
     }

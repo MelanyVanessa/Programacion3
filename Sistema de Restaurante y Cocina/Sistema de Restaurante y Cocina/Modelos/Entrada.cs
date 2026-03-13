@@ -19,7 +19,7 @@ namespace SistemaRestaurante.Modelos
 
         public override TimeSpan CalcularTiempoPreparacion()
         {
-            // Tiempo de preparación: 10 min si es fría, 20 min si es caliente
+            
             return EsFria ? TimeSpan.FromMinutes(10) : TimeSpan.FromMinutes(20);
         }
 
@@ -32,7 +32,6 @@ namespace SistemaRestaurante.Modelos
 
         public override decimal CalcularCostoTotal()
         {
-            // El costo depende del número de porciones
             return PrecioBase * Porciones;
         }
     }

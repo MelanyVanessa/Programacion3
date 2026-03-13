@@ -13,7 +13,7 @@ namespace SistemaRestaurante.Modelos
         public TipoComida Tipo { get; set; }
         public NivelDificultad Dificultad { get; set; }
 
-        // Constructor protegido para que solo las clases hijas lo usen
+        
         protected Plato(int id, string nombre, string descripcion, decimal precioBase, TipoComida tipo, NivelDificultad dificultad)
         {
             Id = id;
@@ -24,7 +24,7 @@ namespace SistemaRestaurante.Modelos
             Dificultad = dificultad;
         }
 
-        // Método virtual que las clases hijas pueden extender
+        
         public virtual void MostrarInformacionNutricional()
         {
             Console.WriteLine($"Plato: {Nombre} ({Tipo})");
@@ -33,7 +33,7 @@ namespace SistemaRestaurante.Modelos
             Console.WriteLine($"Dificultad: {Dificultad}");
         }
 
-        // Métodos de la interfaz que cada clase hija debe implementar
+        
         public abstract TimeSpan CalcularTiempoPreparacion();
         public abstract void GenerarOrdenCocina();
         public abstract decimal CalcularCostoTotal();

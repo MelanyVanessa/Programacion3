@@ -19,7 +19,7 @@ namespace SistemaRestaurante.Modelos
 
         public override TimeSpan CalcularTiempoPreparacion()
         {
-            // Tiempo base: 30 min + dificultad * 15 min
+           
             int dificultadExtra = (int)Dificultad * 15;
             return TimeSpan.FromMinutes(30 + dificultadExtra);
         }
@@ -33,7 +33,7 @@ namespace SistemaRestaurante.Modelos
 
         public override decimal CalcularCostoTotal()
         {
-            // Si incluye guarnición, se suma un costo adicional
+            
             return PrecioBase + (IncluyeGuarnicion ? 5000m : 0);
         }
     }
