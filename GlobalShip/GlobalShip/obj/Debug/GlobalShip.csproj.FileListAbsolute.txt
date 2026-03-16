@@ -1,0 +1,7 @@
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\GlobalShip\GlobalShip\bin\Debug\GlobalShip.exe.config
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\GlobalShip\GlobalShip\bin\Debug\GlobalShip.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\GlobalShip\GlobalShip\bin\Debug\GlobalShip.pdb
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\GlobalShip\GlobalShip\obj\Debug\GlobalShip.csproj.AssemblyReference.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\GlobalShip\GlobalShip\obj\Debug\GlobalShip.csproj.CoreCompileInputs.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\GlobalShip\GlobalShip\obj\Debug\GlobalShip.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\GlobalShip\GlobalShip\obj\Debug\GlobalShip.pdb
