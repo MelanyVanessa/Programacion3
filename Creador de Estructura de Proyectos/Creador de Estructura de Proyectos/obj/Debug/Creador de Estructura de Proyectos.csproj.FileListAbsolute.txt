@@ -1,0 +1,7 @@
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Creador de Estructura de Proyectos\Creador de Estructura de Proyectos\bin\Debug\Creador de Estructura de Proyectos.exe.config
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Creador de Estructura de Proyectos\Creador de Estructura de Proyectos\bin\Debug\Creador de Estructura de Proyectos.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Creador de Estructura de Proyectos\Creador de Estructura de Proyectos\bin\Debug\Creador de Estructura de Proyectos.pdb
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Creador de Estructura de Proyectos\Creador de Estructura de Proyectos\obj\Debug\Creador de Estructura de Proyectos.csproj.AssemblyReference.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Creador de Estructura de Proyectos\Creador de Estructura de Proyectos\obj\Debug\Creador de Estructura de Proyectos.csproj.CoreCompileInputs.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Creador de Estructura de Proyectos\Creador de Estructura de Proyectos\obj\Debug\Creador de Estructura de Proyectos.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Creador de Estructura de Proyectos\Creador de Estructura de Proyectos\obj\Debug\Creador de Estructura de Proyectos.pdb
