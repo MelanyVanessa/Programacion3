@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Gestor de Contactos Simple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3CE095-FADA-4640-A794-1EA3A949B2F6}|Gestor de Contactos Simple\\Gestor de Contactos Simple.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\gestor de contactos simple\\gestor de contactos simple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3CE095-FADA-4640-A794-1EA3A949B2F6}|Gestor de Contactos Simple\\Gestor de Contactos Simple.csproj|solutionrelative:gestor de contactos simple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Gestor de Contactos Simple\\Gestor de Contactos Simple\\Program.cs",
+              "RelativeDocumentMoniker": "Gestor de Contactos Simple\\Program.cs",
+              "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Gestor de Contactos Simple\\Gestor de Contactos Simple\\Program.cs",
+              "RelativeToolTip": "Gestor de Contactos Simple\\Program.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAuwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:32:03.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Gestor de Contactos Simple\Gestor de Contactos Simple\bin\Debug\Gestor de Contactos Simple.exe.config
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Gestor de Contactos Simple\Gestor de Contactos Simple\bin\Debug\Gestor de Contactos Simple.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Gestor de Contactos Simple\Gestor de Contactos Simple\bin\Debug\Gestor de Contactos Simple.pdb
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Gestor de Contactos Simple\Gestor de Contactos Simple\obj\Debug\Gestor de Contactos Simple.csproj.AssemblyReference.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Gestor de Contactos Simple\Gestor de Contactos Simple\obj\Debug\Gestor de Contactos Simple.csproj.CoreCompileInputs.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Gestor de Contactos Simple\Gestor de Contactos Simple\obj\Debug\Gestor de Contactos Simple.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Gestor de Contactos Simple\Gestor de Contactos Simple\obj\Debug\Gestor de Contactos Simple.pdb
