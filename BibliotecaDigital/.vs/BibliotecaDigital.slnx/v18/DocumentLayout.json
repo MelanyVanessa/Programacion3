@@ -50,8 +50,7 @@
               "RelativeToolTip": "BibliotecaDigital\\Modelos\\Libro.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T15:22:52.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T15:22:52.565Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "BibliotecaDigital\\Modelos\\Revista.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAkwBoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T15:23:00.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T15:23:00.227Z"
             },
             {
               "$type": "Document",
@@ -88,8 +86,7 @@
               "RelativeToolTip": "BibliotecaDigital\\Modelos\\MaterialBiblioteca.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T15:22:39.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T15:22:39.23Z"
             },
             {
               "$type": "Document",
@@ -101,8 +98,7 @@
               "RelativeToolTip": "BibliotecaDigital\\Interfaces\\IPrestable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T15:22:18.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T15:22:18.774Z"
             },
             {
               "$type": "Document",
@@ -124,7 +120,7 @@
               "RelativeDocumentMoniker": "BibliotecaDigital\\Program.cs",
               "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\BibliotecaDigital\\BibliotecaDigital\\Program.cs",
               "RelativeToolTip": "BibliotecaDigital\\Program.cs",
-              "ViewState": "AgIAAMwAAAAAAAAAAAAuwLcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T15:16:40.518Z",
               "EditorCaption": ""

@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\reproductor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\reproductor.csproj|C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\reproductor\\reproductor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\reproductor.csproj|solutionrelative:reproductor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\Reproductor.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\reproductor\\reproductor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\Reproductor.csproj|solutionrelative:reproductor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\Reproductor.csproj|C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\reproductor\\reproductor\\modelos\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\Reproductor.csproj|solutionrelative:reproductor\\modelos\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\Reproductor.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\reproductor\\reproductor\\interfaces\\ireproductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\Reproductor.csproj|C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\reproductor\\reproductor\\interfaces\\ireproductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0C2A045-25EE-41A2-A23C-0C50D2B45B38}|reproductor\\Reproductor.csproj|solutionrelative:reproductor\\interfaces\\ireproductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -50,8 +50,7 @@
               "RelativeToolTip": "reproductor\\Modelos\\Cancion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T13:50:43.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T13:50:43.94Z"
             },
             {
               "$type": "Document",
@@ -61,7 +60,7 @@
               "RelativeDocumentMoniker": "reproductor\\Program.cs",
               "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\reproductor\\reproductor\\Program.cs",
               "RelativeToolTip": "reproductor\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T13:45:55.569Z",
               "EditorCaption": ""
@@ -76,8 +75,7 @@
               "RelativeToolTip": "reproductor\\Interfaces\\IReproductor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T13:47:49.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T13:47:49.63Z"
             }
           ]
         }

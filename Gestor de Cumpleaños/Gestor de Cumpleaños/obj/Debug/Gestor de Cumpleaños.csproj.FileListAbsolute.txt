@@ -1,0 +1,7 @@
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Gestor de Cumpleaños\Gestor de Cumpleaños\bin\Debug\Gestor de Cumpleaños.exe.config
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Gestor de Cumpleaños\Gestor de Cumpleaños\bin\Debug\Gestor de Cumpleaños.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Gestor de Cumpleaños\Gestor de Cumpleaños\bin\Debug\Gestor de Cumpleaños.pdb
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Gestor de Cumpleaños\Gestor de Cumpleaños\obj\Debug\Gestor de Cumpleaños.csproj.AssemblyReference.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Gestor de Cumpleaños\Gestor de Cumpleaños\obj\Debug\Gestor de Cumpleaños.csproj.CoreCompileInputs.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Gestor de Cumpleaños\Gestor de Cumpleaños\obj\Debug\Gestor de Cumpleaños.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Gestor de Cumpleaños\Gestor de Cumpleaños\obj\Debug\Gestor de Cumpleaños.pdb

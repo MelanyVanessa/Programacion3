@@ -1,0 +1,7 @@
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Diario Personal con Bitacora\Diario Personal con Bitacora\bin\Debug\Diario Personal con Bitacora.exe.config
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Diario Personal con Bitacora\Diario Personal con Bitacora\bin\Debug\Diario Personal con Bitacora.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Diario Personal con Bitacora\Diario Personal con Bitacora\bin\Debug\Diario Personal con Bitacora.pdb
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Diario Personal con Bitacora\Diario Personal con Bitacora\obj\Debug\Diario Personal con Bitacora.csproj.AssemblyReference.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Diario Personal con Bitacora\Diario Personal con Bitacora\obj\Debug\Diario Personal con Bitacora.csproj.CoreCompileInputs.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Diario Personal con Bitacora\Diario Personal con Bitacora\obj\Debug\Diario Personal con Bitacora.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Diario Personal con Bitacora\Diario Personal con Bitacora\obj\Debug\Diario Personal con Bitacora.pdb
