@@ -1,0 +1,7 @@
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Centro Médico HealthTech\Centro Médico HealthTech\bin\Debug\Centro Médico HealthTech.exe.config
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Centro Médico HealthTech\Centro Médico HealthTech\bin\Debug\Centro Médico HealthTech.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Centro Médico HealthTech\Centro Médico HealthTech\bin\Debug\Centro Médico HealthTech.pdb
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Centro Médico HealthTech\Centro Médico HealthTech\obj\Debug\Centro Médico HealthTech.csproj.AssemblyReference.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Centro Médico HealthTech\Centro Médico HealthTech\obj\Debug\Centro Médico HealthTech.csproj.CoreCompileInputs.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Centro Médico HealthTech\Centro Médico HealthTech\obj\Debug\Centro Médico HealthTech.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Centro Médico HealthTech\Centro Médico HealthTech\obj\Debug\Centro Médico HealthTech.pdb
