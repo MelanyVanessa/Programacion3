@@ -1,0 +1,7 @@
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Ferreteria Pro\Ferreteria Pro\bin\Debug\Ferreteria Pro.exe.config
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Ferreteria Pro\Ferreteria Pro\bin\Debug\Ferreteria Pro.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Ferreteria Pro\Ferreteria Pro\bin\Debug\Ferreteria Pro.pdb
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Ferreteria Pro\Ferreteria Pro\obj\Debug\Ferreteria Pro.csproj.AssemblyReference.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Ferreteria Pro\Ferreteria Pro\obj\Debug\Ferreteria Pro.csproj.CoreCompileInputs.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Ferreteria Pro\Ferreteria Pro\obj\Debug\Ferreteria Pro.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Ferreteria Pro\Ferreteria Pro\obj\Debug\Ferreteria Pro.pdb

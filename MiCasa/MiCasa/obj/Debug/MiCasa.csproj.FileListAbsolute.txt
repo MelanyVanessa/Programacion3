@@ -1,0 +1,7 @@
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\MiCasa\MiCasa\bin\Debug\MiCasa.exe.config
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\MiCasa\MiCasa\bin\Debug\MiCasa.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\MiCasa\MiCasa\bin\Debug\MiCasa.pdb
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\MiCasa\MiCasa\obj\Debug\MiCasa.csproj.AssemblyReference.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\MiCasa\MiCasa\obj\Debug\MiCasa.csproj.CoreCompileInputs.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\MiCasa\MiCasa\obj\Debug\MiCasa.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\MiCasa\MiCasa\obj\Debug\MiCasa.pdb
