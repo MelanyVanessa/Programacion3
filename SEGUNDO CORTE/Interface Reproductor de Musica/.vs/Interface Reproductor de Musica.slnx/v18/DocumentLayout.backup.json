@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Interface Reproductor de Musica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36D67E84-263F-4E0A-9736-E0DAB18D7F08}|Interface Reproductor de Musica\\Interface Reproductor de Musica.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\interface reproductor de musica\\interface reproductor de musica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36D67E84-263F-4E0A-9736-E0DAB18D7F08}|Interface Reproductor de Musica\\Interface Reproductor de Musica.csproj|solutionrelative:interface reproductor de musica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Interface Reproductor de Musica\\Interface Reproductor de Musica\\Form1.cs",
+              "RelativeDocumentMoniker": "Interface Reproductor de Musica\\Form1.cs",
+              "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Interface Reproductor de Musica\\Interface Reproductor de Musica\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Interface Reproductor de Musica\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T14:01:25.167Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
