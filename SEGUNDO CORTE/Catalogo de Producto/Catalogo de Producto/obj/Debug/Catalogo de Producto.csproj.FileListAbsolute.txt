@@ -1,0 +1,10 @@
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Catalogo de Producto\Catalogo de Producto\bin\Debug\Catalogo de Producto.exe.config
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Catalogo de Producto\Catalogo de Producto\bin\Debug\Catalogo de Producto.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Catalogo de Producto\Catalogo de Producto\bin\Debug\Catalogo de Producto.pdb
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Catalogo de Producto\Catalogo de Producto\obj\Debug\Catalogo de Producto.csproj.AssemblyReference.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Catalogo de Producto\Catalogo de Producto\obj\Debug\Catalogo_de_Producto.Form1.resources
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Catalogo de Producto\Catalogo de Producto\obj\Debug\Catalogo_de_Producto.Properties.Resources.resources
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Catalogo de Producto\Catalogo de Producto\obj\Debug\Catalogo de Producto.csproj.GenerateResource.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Catalogo de Producto\Catalogo de Producto\obj\Debug\Catalogo de Producto.csproj.CoreCompileInputs.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Catalogo de Producto\Catalogo de Producto\obj\Debug\Catalogo de Producto.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Catalogo de Producto\Catalogo de Producto\obj\Debug\Catalogo de Producto.pdb
