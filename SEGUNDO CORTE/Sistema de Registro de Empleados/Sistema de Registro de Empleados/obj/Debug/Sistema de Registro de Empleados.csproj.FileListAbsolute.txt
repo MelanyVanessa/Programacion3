@@ -1,0 +1,10 @@
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Registro de Empleados\Sistema de Registro de Empleados\bin\Debug\Sistema de Registro de Empleados.exe.config
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Registro de Empleados\Sistema de Registro de Empleados\bin\Debug\Sistema de Registro de Empleados.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Registro de Empleados\Sistema de Registro de Empleados\bin\Debug\Sistema de Registro de Empleados.pdb
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Registro de Empleados\Sistema de Registro de Empleados\obj\Debug\Sistema de Registro de Empleados.csproj.AssemblyReference.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Registro de Empleados\Sistema de Registro de Empleados\obj\Debug\Sistema_de_Registro_de_Empleados.Form1.resources
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Registro de Empleados\Sistema de Registro de Empleados\obj\Debug\Sistema_de_Registro_de_Empleados.Properties.Resources.resources
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Registro de Empleados\Sistema de Registro de Empleados\obj\Debug\Sistema de Registro de Empleados.csproj.GenerateResource.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Registro de Empleados\Sistema de Registro de Empleados\obj\Debug\Sistema de Registro de Empleados.csproj.CoreCompileInputs.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Registro de Empleados\Sistema de Registro de Empleados\obj\Debug\Sistema de Registro de Empleados.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Registro de Empleados\Sistema de Registro de Empleados\obj\Debug\Sistema de Registro de Empleados.pdb
