@@ -1,0 +1,5 @@
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Gestión de Inventario de Productos\Gestión de Inventario de Productos\obj\Debug\Gestión de Inventario de Productos.csproj.AssemblyReference.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Gestión de Inventario de Productos\Gestión de Inventario de Productos\obj\Debug\GestionInventarioProductos.Form1.resources
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Gestión de Inventario de Productos\Gestión de Inventario de Productos\obj\Debug\Gestión_de_Inventario_de_Productos.Properties.Resources.resources
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Gestión de Inventario de Productos\Gestión de Inventario de Productos\obj\Debug\Gestión de Inventario de Productos.csproj.GenerateResource.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Gestión de Inventario de Productos\Gestión de Inventario de Productos\obj\Debug\Gestión de Inventario de Productos.csproj.CoreCompileInputs.cache
