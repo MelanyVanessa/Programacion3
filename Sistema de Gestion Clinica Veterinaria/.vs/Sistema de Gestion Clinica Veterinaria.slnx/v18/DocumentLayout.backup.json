@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF8D3E5-2C24-4ECC-B40D-853B4AE07C72}|Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\sistema de gestion clinica veterinaria\\sistema de gestion clinica veterinaria\\views\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFF8D3E5-2C24-4ECC-B40D-853B4AE07C72}|Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria.csproj|solutionrelative:sistema de gestion clinica veterinaria\\views\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF8D3E5-2C24-4ECC-B40D-853B4AE07C72}|Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\sistema de gestion clinica veterinaria\\sistema de gestion clinica veterinaria\\views\\historial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFF8D3E5-2C24-4ECC-B40D-853B4AE07C72}|Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria.csproj|solutionrelative:sistema de gestion clinica veterinaria\\views\\historial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF8D3E5-2C24-4ECC-B40D-853B4AE07C72}|Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\sistema de gestion clinica veterinaria\\sistema de gestion clinica veterinaria\\views\\propietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFF8D3E5-2C24-4ECC-B40D-853B4AE07C72}|Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria.csproj|solutionrelative:sistema de gestion clinica veterinaria\\views\\propietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF8D3E5-2C24-4ECC-B40D-853B4AE07C72}|Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\sistema de gestion clinica veterinaria\\sistema de gestion clinica veterinaria\\views\\propietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF8D3E5-2C24-4ECC-B40D-853B4AE07C72}|Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria.csproj|solutionrelative:sistema de gestion clinica veterinaria\\views\\propietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF8D3E5-2C24-4ECC-B40D-853B4AE07C72}|Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\sistema de gestion clinica veterinaria\\sistema de gestion clinica veterinaria\\views\\historial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF8D3E5-2C24-4ECC-B40D-853B4AE07C72}|Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria.csproj|solutionrelative:sistema de gestion clinica veterinaria\\views\\historial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF8D3E5-2C24-4ECC-B40D-853B4AE07C72}|Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\sistema de gestion clinica veterinaria\\sistema de gestion clinica veterinaria\\views\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF8D3E5-2C24-4ECC-B40D-853B4AE07C72}|Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria.csproj|solutionrelative:sistema de gestion clinica veterinaria\\views\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF8D3E5-2C24-4ECC-B40D-853B4AE07C72}|Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\sistema de gestion clinica veterinaria\\sistema de gestion clinica veterinaria\\views\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFF8D3E5-2C24-4ECC-B40D-853B4AE07C72}|Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria.csproj|solutionrelative:sistema de gestion clinica veterinaria\\views\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF8D3E5-2C24-4ECC-B40D-853B4AE07C72}|Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\sistema de gestion clinica veterinaria\\sistema de gestion clinica veterinaria\\views\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF8D3E5-2C24-4ECC-B40D-853B4AE07C72}|Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria.csproj|solutionrelative:sistema de gestion clinica veterinaria\\views\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF8D3E5-2C24-4ECC-B40D-853B4AE07C72}|Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\sistema de gestion clinica veterinaria\\sistema de gestion clinica veterinaria\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF8D3E5-2C24-4ECC-B40D-853B4AE07C72}|Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria.csproj|solutionrelative:sistema de gestion clinica veterinaria\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF8D3E5-2C24-4ECC-B40D-853B4AE07C72}|Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\sistema de gestion clinica veterinaria\\sistema de gestion clinica veterinaria\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFF8D3E5-2C24-4ECC-B40D-853B4AE07C72}|Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria.csproj|solutionrelative:sistema de gestion clinica veterinaria\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF8D3E5-2C24-4ECC-B40D-853B4AE07C72}|Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria.csproj|c:\\users\\melan\\onedrive\\documents\\github\\programacion3\\sistema de gestion clinica veterinaria\\sistema de gestion clinica veterinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF8D3E5-2C24-4ECC-B40D-853B4AE07C72}|Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria.csproj|solutionrelative:sistema de gestion clinica veterinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Consultas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria\\views\\Consultas.cs",
+              "RelativeDocumentMoniker": "Sistema de Gestion Clinica Veterinaria\\views\\Consultas.cs",
+              "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria\\views\\Consultas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema de Gestion Clinica Veterinaria\\views\\Consultas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T22:28:47.28Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mascota.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria\\views\\Mascota.cs",
+              "RelativeDocumentMoniker": "Sistema de Gestion Clinica Veterinaria\\views\\Mascota.cs",
+              "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria\\views\\Mascota.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema de Gestion Clinica Veterinaria\\views\\Mascota.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T17:08:22.22Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Propietario.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria\\views\\Propietario.cs",
+              "RelativeDocumentMoniker": "Sistema de Gestion Clinica Veterinaria\\views\\Propietario.cs",
+              "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria\\views\\Propietario.cs",
+              "RelativeToolTip": "Sistema de Gestion Clinica Veterinaria\\views\\Propietario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T12:05:50.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Propietario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria\\views\\Propietario.cs",
+              "RelativeDocumentMoniker": "Sistema de Gestion Clinica Veterinaria\\views\\Propietario.cs",
+              "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria\\views\\Propietario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema de Gestion Clinica Veterinaria\\views\\Propietario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T12:00:57.325Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Historial.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria\\views\\Historial.cs",
+              "RelativeDocumentMoniker": "Sistema de Gestion Clinica Veterinaria\\views\\Historial.cs",
+              "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria\\views\\Historial.cs",
+              "RelativeToolTip": "Sistema de Gestion Clinica Veterinaria\\views\\Historial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T23:57:02.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Consultas.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria\\views\\Consultas.cs",
+              "RelativeDocumentMoniker": "Sistema de Gestion Clinica Veterinaria\\views\\Consultas.cs",
+              "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria\\views\\Consultas.cs",
+              "RelativeToolTip": "Sistema de Gestion Clinica Veterinaria\\views\\Consultas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T22:43:54.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Historial.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria\\views\\Historial.cs",
+              "RelativeDocumentMoniker": "Sistema de Gestion Clinica Veterinaria\\views\\Historial.cs",
+              "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria\\views\\Historial.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema de Gestion Clinica Veterinaria\\views\\Historial.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T23:05:38.592Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria\\views\\Form1.cs",
+              "RelativeDocumentMoniker": "Sistema de Gestion Clinica Veterinaria\\views\\Form1.cs",
+              "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria\\views\\Form1.cs",
+              "RelativeToolTip": "Sistema de Gestion Clinica Veterinaria\\views\\Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAASwDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T12:01:16.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria\\views\\Form1.cs",
+              "RelativeDocumentMoniker": "Sistema de Gestion Clinica Veterinaria\\views\\Form1.cs",
+              "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria\\views\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema de Gestion Clinica Veterinaria\\views\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T22:03:51.878Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mascota.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria\\views\\Mascota.cs",
+              "RelativeDocumentMoniker": "Sistema de Gestion Clinica Veterinaria\\views\\Mascota.cs",
+              "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria\\views\\Mascota.cs",
+              "RelativeToolTip": "Sistema de Gestion Clinica Veterinaria\\views\\Mascota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T22:19:24.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema de Gestion Clinica Veterinaria\\Program.cs",
+              "ToolTip": "C:\\Users\\melan\\OneDrive\\Documents\\GitHub\\Programacion3\\Sistema de Gestion Clinica Veterinaria\\Sistema de Gestion Clinica Veterinaria\\Program.cs",
+              "RelativeToolTip": "Sistema de Gestion Clinica Veterinaria\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T12:00:07.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

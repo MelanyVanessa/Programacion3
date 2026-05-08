@@ -1,0 +1,14 @@
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Gestion Clinica Veterinaria\Sistema de Gestion Clinica Veterinaria\bin\Debug\Sistema de Gestion Clinica Veterinaria.exe.config
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Gestion Clinica Veterinaria\Sistema de Gestion Clinica Veterinaria\bin\Debug\Sistema de Gestion Clinica Veterinaria.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Gestion Clinica Veterinaria\Sistema de Gestion Clinica Veterinaria\bin\Debug\Sistema de Gestion Clinica Veterinaria.pdb
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Gestion Clinica Veterinaria\Sistema de Gestion Clinica Veterinaria\obj\Debug\Sistema de Gestion Clinica Veterinaria.csproj.AssemblyReference.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Gestion Clinica Veterinaria\Sistema de Gestion Clinica Veterinaria\obj\Debug\Sistema_de_Gestion_Clinica_Veterinaria.Form1.resources
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Gestion Clinica Veterinaria\Sistema de Gestion Clinica Veterinaria\obj\Debug\Sistema_de_Gestion_Clinica_Veterinaria.Properties.Resources.resources
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Gestion Clinica Veterinaria\Sistema de Gestion Clinica Veterinaria\obj\Debug\Sistema de Gestion Clinica Veterinaria.csproj.GenerateResource.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Gestion Clinica Veterinaria\Sistema de Gestion Clinica Veterinaria\obj\Debug\Sistema de Gestion Clinica Veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Gestion Clinica Veterinaria\Sistema de Gestion Clinica Veterinaria\obj\Debug\Sistema de Gestion Clinica Veterinaria.exe
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Gestion Clinica Veterinaria\Sistema de Gestion Clinica Veterinaria\obj\Debug\Sistema de Gestion Clinica Veterinaria.pdb
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Gestion Clinica Veterinaria\Sistema de Gestion Clinica Veterinaria\obj\Debug\Sistema_de_Gestion_Clinica_Veterinaria.views.Propietario.resources
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Gestion Clinica Veterinaria\Sistema de Gestion Clinica Veterinaria\obj\Debug\Sistema_de_Gestion_Clinica_Veterinaria.views.Mascota.resources
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Gestion Clinica Veterinaria\Sistema de Gestion Clinica Veterinaria\obj\Debug\Sistema_de_Gestion_Clinica_Veterinaria.views.Consultas.resources
+C:\Users\melan\OneDrive\Documents\GitHub\Programacion3\Sistema de Gestion Clinica Veterinaria\Sistema de Gestion Clinica Veterinaria\obj\Debug\Sistema_de_Gestion_Clinica_Veterinaria.views.Historial.resources
